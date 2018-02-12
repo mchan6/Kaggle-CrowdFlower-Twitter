@@ -8,3 +8,7 @@ b) Ridge Regression
 
 c) Ridge Regression with clipping 
 0.16480
+
+Model 2:
+Grid Search Pipeline
+0.16474
